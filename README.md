@@ -11,3 +11,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+## Current repository status
+
+This is the original GitHub Learning Lab slideshow exercise. The repository contains a Jekyll/reveal.js presentation template and a sample introductory slide; it is not yet a maintained presentation with a defined audience or release process.
+
+For a production-readiness assessment and ordered next steps, see [PRODUCTION_READINESS.md](PRODUCTION_READINESS.md). The existing `script/cibuild` script builds the site and checks generated HTML, but it has not been verified against a current Ruby toolchain in this assessment.
